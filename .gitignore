@@ -1,0 +1,7 @@
+#dependencies
+node_modules
+
+#visual studo config
+.vscode
+
+/dist
